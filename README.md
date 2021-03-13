@@ -1,0 +1,2 @@
+# Mario-Kart-Characters-Shiny-App
+Created a two-page shiny application using Mario Kart 8 Character Data &lt; https://www.kaggle.com/barelydedicated/mariokart8>. The application consists of an introduction page and a visualization page. The visualization page includes an interactive vertical bar chart where the user can select which variable they would like to compare to each Mario Kart character.
